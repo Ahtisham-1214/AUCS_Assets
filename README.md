@@ -18,3 +18,13 @@ Student ID: <b>MMG-F23-0009</b>
 
 Reach out to me: +923154988524
 <hr>
+<h2> I am maintaining Fall-24 Artificial Intelligence assets </h2><br>
+Name: <b>Atika Mughal</b>
+<br>
+Institute: <b>Aror University of Art, Architecture, Design and Heritage, Sukkur</b>
+<br>
+Student ID: <b>ARI-F24-0090</b>
+<br>
+
+Reach out to me: +923303247991
+<hr>
